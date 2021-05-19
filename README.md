@@ -13,4 +13,4 @@ Interaction rates achieved by existing and planned facilities as a function ofce
     sPHENIX    :  M. Connors [sPHENIX Collab.], Nucl. Phys. A967(2017) 548.
     HIAF       :  S. Ruanet al., Nucl. Instrum. Meth. A892(2018) 53.
     J-PARC-HI  :  H. Sakoet al., JPS Conf. Ser. 8 (2015) 022010; http://silver.j-parc.jp/sako/white-paper-v1.21.pdf.
-    NA60+      :  A. Daineseet al., Frascati Phys. Ser.62(2016).
+    NA60+      :  A. Daineseet al., Frascati Phys. Ser.62(2016). NA60+ numbers updated in Feb 2021.
