@@ -20,3 +20,6 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
 
 <h4> update Feb 2021 </h4>
     NA60+ values updated for the ECT* Colloquium: https://www.youtube.com/watch?v=UHszqeAqueY&list=PLUPPQ1TVXK7srmxsJcjl56xVRSR9HLJFv&index=15&t=2107s
+
+<h4> update Jun 2021 </h4>
+    CEE values updated : energy range up to 4 GeV, interatiion rate 5e5 Hz
