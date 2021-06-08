@@ -2,9 +2,9 @@
 // Interaction rate plot
 // Max Rate = detector or accelerator limited
 // Date: 2018-May-1
-// Date update: 2021-Feb-1
-// Date update: 2021-Apr-11  Star collider 7.7 change from 10 to 20 Hz
-// Date update: 2021-Jun-06  CEE @ HIAF change energy range up to 4 GeV, change interaction rate up to 5e5 Hz
+// Date update: 2021-Feb-01  NA60+ : change interaction rate 2e5 Hz
+// Date update: 2021-Apr-11  Star collider 7.7 GeV change from 10 to 20 Hz
+// Date update: 2021-Jun-08  CEE@HIAF change to CEE+ @ HIAF, energy range up to 4 GeV, interaction rate up to 5e5 Hz
 // Author: T. Galatyuk
 // Cite as: T. Galatyuk, Nucl.Phys. A982 (2019)
 // ==============================================================
@@ -57,15 +57,15 @@
     // ----------------------------------------
 
     // ----------------------------------------
-    Double_t cee_e[] = {  1.9, 4.};
-    Double_t cee_r[] = {5e5, 5e5};
-    TGraphAsymmErrors *gr_cee = new TGraphAsymmErrors(2, cee_e, cee_r);
-    gr_cee->SetMarkerColor(kGray+3);
-    gr_cee->SetLineColor(kGray+3);
-    gr_cee->SetLineWidth(3);
-    gr_cee->SetLineStyle(9);
-    gr_cee->SetMarkerSize(2.8);
-    gr_cee->SetMarkerStyle(33);
+    Double_t ceep_e[] = {  1.9, 4.};
+    Double_t ceep_r[] = {5e5, 5e5};
+    TGraphAsymmErrors *gr_ceep = new TGraphAsymmErrors(2, ceep_e, ceep_r);
+    gr_ceep->SetMarkerColor(kGray+3);
+    gr_ceep->SetLineColor(kGray+3);
+    gr_ceep->SetLineWidth(3);
+    gr_ceep->SetLineStyle(9);
+    gr_ceep->SetMarkerSize(2.8);
+    gr_ceep->SetMarkerStyle(33);
 
     // ----------------------------------------
 
@@ -265,9 +265,9 @@
     gr_bmn->Draw("plsame");
     gr_bmn1->Draw("psame");
 
-    gr_cee->Draw("plsame");
+    gr_ceep->Draw("plsame");
 
-//    gr_na60->Draw("psame");
+    //gr_na60->Draw("psame");
     gr_na60p->Draw("plsame");
     gr_na60p1->Draw("psame");
 
@@ -293,7 +293,7 @@
     pt->SetLineColor(0);
     pt->SetTextSize(0.025);
     pt->SetTextFont(42);
-    TText *text = pt->AddText("CEE@HIAF");
+    TText *text = pt->AddText("CEE+@HIAF");
     pt->Draw();
 
     TPaveText *pt = new TPaveText(2.4,1.2e4,2.4,1.2e4"br");
