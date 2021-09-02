@@ -17,6 +17,8 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
                   J.C. Yang et al., Nucl.Instrum.Meth.B 317 (2013) 263-265.
     J-PARC-HI  :  H. Sakoet al., JPS Conf. Ser. 8 (2015) 022010; http://silver.j-parc.jp/sako/white-paper-v1.21.pdf.
     NA60+      :  A. Daineseet al., Frascati Phys. Ser.62(2016). 
+    LAMPS      :  B. Hong et al., Nucl.Sci.Tech. 29 (2018) 12, 171
+    RAON       :  D. Jeon et al., J.Korean Phys.Soc. 65 (2014) 7, 1010-1019 
 
 <h4> update 2021-Feb-01 </h4>
     NA60+ values updated for the ECT* Colloquium: https://www.youtube.com/watch?v=UHszqeAqueY&list=PLUPPQ1TVXK7srmxsJcjl56xVRSR9HLJFv&index=15&t=2107s
@@ -26,3 +28,6 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
 
 <h4> update 2021-Jun-08 </h4>
     CEE change to CEE+, energy range up to 4 GeV, interaction rate up to 5e5 Hz
+
+<h4> update 2021-Sep-02 </h4>
+    add LAMPS experiment at RAON facility in Korea (1.46 GeV: 50 kHz)
