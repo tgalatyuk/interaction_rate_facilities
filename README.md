@@ -30,4 +30,8 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
     CEE change to CEE+, energy range up to 4 GeV, interaction rate up to 5e5 Hz
 
 <h4> update 2021-Sep-02 </h4>
-    add LAMPS experiment at RAON facility in Korea (1.46 GeV: 50 kHz)
+    add LAMPS experiment at RAON facility in Korea (1.86 GeV: 50 kHz)
+    
+<h4> update 2022-Jun-28 </h4>
+    better presentation of faciclities (used for the Heuer/Tribble GSI/FAIR review)
+    
