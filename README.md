@@ -35,3 +35,8 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
 <h4> update 2022-Jun-28 </h4>
     better presentation of faciclities (used for the Heuer/Tribble GSI/FAIR review)
     
+<h4> update 2023-Aug-18 </h4>
+    included ALICE3 93 kHz for Pb-Pb, [ALICE], "Letter of intent for ALICE 3: A next-generation heavy-ion experiment at the LHC", [arXiv:2211.02491 [physics.ins-det]]
+
+
+    
