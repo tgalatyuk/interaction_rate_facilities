@@ -10,6 +10,7 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
     STAR       :  C. Yang [STAR Collab.], Nucl. Phys. A967(2017) 800.
     NA61/SHINE :  A. Aduszkiewiczet al.[NA61/SHINE Collab.], CERN-SPSC-2018-008, SPSC-P-330-ADD-10.
     ALICE      :  P. Antonioliet al.[ALICE Collab.], CERN-LHCC-2013-019, ALICE-TDR-015.
+    ALICE 3    :  [ALICE], "Letter of intent for ALICE 3: A next-generation heavy-ion experiment at the LHC", [arXiv:2211.02491 [physics.ins-det]]
     CBM        :  T. Ablyazimovet al.[CBM Collab.], Eur. Phys. J. A53, no. 3 (2017) 60.
     MPD, BM@N  :  A. Sorinet al., PoS(CPOD2014) 042 (2014)
     sPHENIX    :  M. Connors [sPHENIX Collab.], Nucl. Phys. A967(2017) 548.
@@ -18,7 +19,7 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
     J-PARC-HI  :  H. Sakoet al., JPS Conf. Ser. 8 (2015) 022010; http://silver.j-parc.jp/sako/white-paper-v1.21.pdf.
     NA60+      :  A. Daineseet al., Frascati Phys. Ser.62(2016). 
     LAMPS      :  B. Hong et al., Nucl.Sci.Tech. 29 (2018) 12, 171
-    RAON       :  D. Jeon et al., J.Korean Phys.Soc. 65 (2014) 7, 1010-1019 
+    RAON       :  D. Jeon et al., J.Korean Phys.Soc. 65 (2014) 7, 1010-1019
 
 <h4> update 2021-Feb-01 </h4>
     NA60+ values updated for the ECT* Colloquium: https://www.youtube.com/watch?v=UHszqeAqueY&list=PLUPPQ1TVXK7srmxsJcjl56xVRSR9HLJFv&index=15&t=2107s
@@ -38,5 +39,7 @@ T. Galatyuk, Nucl.Phys.A 982 (2019) 163-169, Quark Matter 2018
 <h4> update 2023-Aug-18 </h4>
     included ALICE3 93 kHz for Pb-Pb, [ALICE], "Letter of intent for ALICE 3: A next-generation heavy-ion experiment at the LHC", [arXiv:2211.02491 [physics.ins-det]]
 
+<h4> update 2024-Feb-24 </h4>
+	ALICE and sPHENIX marked as running, CEE+@HIAF marked as under construction
 
     
